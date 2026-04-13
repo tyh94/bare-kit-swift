@@ -1,1 +1,1 @@
-#import "BareKit-Briding-Header.h"
+#import "include/BareKitBridge.h"

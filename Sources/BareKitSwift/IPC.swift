@@ -1,4 +1,4 @@
-import BareKitBridge
+@_exported import BareKitBridge
 import Foundation
 
 public struct IPC: AsyncSequence {
