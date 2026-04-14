@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "BareKit",
-            url: "https://github.com/tyh94/bare-kit-swift/releases/download/v2.0.2/BareKit.xcframework.zip",
-            checksum: "bd7f8ad32d11d7f592e425eb703a082eea8a34d17c7a09ab4fb9735229a0f7cf"
+            url: "https://github.com/tyh94/bare-kit-swift-framework/releases/download/v2.0.2/BareKit.xcframework.zip",
+            checksum: "866fae477668fc2ab8dacd11c4bcc6f71ade3365264dbc828bce76ed88582276"
         ),
         .target(
             name: "BareKitBridge",
